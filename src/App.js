@@ -31,7 +31,9 @@ class App extends Component {
       <div className="container">
         <Header />
         <div className="main">
-          <div className="ad"></div>
+          <div className="ad">
+            <img src="top-ad.png" />
+          </div>
           <h2 className="page-title">Genres</h2>
 
           <div className="books__section">
